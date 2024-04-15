@@ -6,4 +6,4 @@ Integrantes do grupo:
 - `Integrante 3`: Luiza Araujo de Oliveira Caram Saliba - RA: 163931
 - `Integrante 4`: Willy Thiago Gutsche - RA: 164008
 
-O projeto 1 conta como "Shell.c"
+O projeto 1 está implementado no arquivo "Shell.c"
